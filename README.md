@@ -12,7 +12,8 @@ CRM is an iPad app for UMI Stone catering the sale representatives, marketers, a
 * Sliders
 
 # Home Modules
-* Customers
+
+## 1. Customers
 
 Customers | Customer Detail
 :-------------------------:|:-------------------------:
@@ -36,8 +37,17 @@ Marketing Order Inventory | Marketing Order Placement Form
 Customer Doc Mail Form | Customer Visits
 ![25](https://github.com/MuhammadHuzaifaZahid/UMI-Stone-CRM/assets/83825490/8aa35ac2-6728-42b4-bb89-f32afbf4eabc) | ![26](https://github.com/MuhammadHuzaifaZahid/UMI-Stone-CRM/assets/83825490/7a4e5a8e-376f-4fc1-ae62-72a34fe01e70)
   
-* Orders
+## 2. Orders
 
+Orders | Returns
+:-------------------------:|:-------------------------:
+![1](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/0b9bac0b-d29e-41e3-b9ac-46ea2b8a0b74) | ![Returns](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/95889b76-dbcc-4ee2-8048-61074902d3dc)
+OAs | OA Details
+![OAs](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/ff0032f3-9ddb-467c-92f0-0d2d31bd9697) | ![OA Details](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/f34050c2-86c9-49d8-959a-893e25d6c236)
+Marketing Orders | Delivery
+![Marketing](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/46cf5923-7d27-413f-94d2-865490b22564) | ![Delivery](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/f501adae-ab35-47f6-9486-f57f07eabe83)
+Back Orders | Consignments
+![BackOrders](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/3aba0e70-bbf9-446e-b66c-5c61520b582d) | ![Consignments](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/374078ce-6afa-4472-9bad-769d70341549)
 
 * Promo
 
@@ -51,7 +61,7 @@ Customer Doc Mail Form | Customer Visits
 * Announcements
 
 
-* Emp Emulator For Managers
+* Emp Simulation For Managers
 
 
 * Visit
