@@ -49,22 +49,51 @@ Marketing Orders | Delivery
 Back Orders | Consignments
 ![BackOrders](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/3aba0e70-bbf9-446e-b66c-5c61520b582d) | ![Consignments](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/374078ce-6afa-4472-9bad-769d70341549)
 
-* Promo
+## 3. Promo
+
+Promos | Promo Item Prices
+:-------------------------:|:-------------------------:
+![Promo](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/d6b0120e-5662-4d58-816a-4c9779cc2e8e) | ![Promo Pricing](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/0c6352cb-e684-492a-989b-e4a08e2f44a4)
+Selected Customer For Pricing, Marketing Mail & Inventory Order | Marketing Mail Form
+![Customer Selection](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/69d13259-4bfb-428a-b937-f6c3dc4900fe) | ![Mail Form](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/ec24d22e-8ec6-4be1-ba9b-2c5c3b21066d)
+
+## 4. Coming Soon
+
+Coming Soon | Coming Soon Group Items
+:-------------------------:|:-------------------------:
+![CS](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/95286076-69ed-4cf1-821e-b4865c91f650) | ![CS1](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/f647328e-0a0c-4086-a5d7-b85c9e724d5d)
+Selected Customer Coming Soon Price
+![CS Price](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/1c0a61c2-418c-4242-9205-7857837b095f)
+
+## 5. Inventory
+
+Inventory Search | Inventory
+:-------------------------:|:-------------------------:
+![Inv Search](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/ceadfea9-c218-4ce8-9069-9b11607cb749) | ![Inv Result](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/20d57592-e2bc-4b5b-9bc3-76e25bd762aa)
+Group Prices | Selected Customer Group Prices 
+![Group Pricing](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/3991921c-a982-45bf-8ff4-044cf598bafd) | ![Group Customer Pricing](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/a3eddb8c-339e-4587-acf7-c1a861eae348)
+Group Lots and Lot Items | Lot Prices
+![Inv Group Expansion](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/a2f868a2-2769-40b3-a97c-2179d0a067cd) | ![Lot Pricing 2](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/46c26d5a-ddec-4c3b-8d96-dfacf327a94f)
+Clearence Prices | Selected Customer Clearence Prices
+![Clearence Item Price](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/3b8cb3e9-dcb3-4904-8e2a-e1aa7d70b2f1) | ![Clearence Item Price 2](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/d2742de6-c42c-40c7-9f81-b6d5b4af5720)
+Add Back Order Item To Cart | Coming Soon For Inv Group
+![Back Order Inv](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/958d5665-2d4a-4f3e-a8a5-8d3f986cf083) | ![CS Inv](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/79571d4d-1feb-47d7-a76c-32874e4ab1d1)
+
+## 6. Marketing Mail & Order Cart
+
+Mail & Order Carts | Marketing Mail Form ( Promo, Coming Soon, Inventory )
+:-------------------------:|:-------------------------:
+![Inv](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/e6456930-7b52-403a-be53-e5bd6735a67b) | ![Mail Form 2](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/e370f41a-4b4a-4a88-835e-734794cf27ac)
+Inventory & Back Order Placement Form | Order Confirmation & Details Form
+![Order Form](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/ce36786e-a3cf-419f-8936-d10170609a79) | ![Frame-21-12-2023-12-57-33](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/bc707536-7e36-4094-85a0-ea10f37d54c9)
+
+## 6. Announcements
 
 
-* Coming Soon
+## 7. Emp Simulation For Managers
 
 
-* Inventory
-
-
-* Announcements
-
-
-* Emp Simulation For Managers
-
-
-* Visit
+## 8. Appointments
 
 
 
