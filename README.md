@@ -95,10 +95,13 @@ Inventory & Back Order Placement Form | Order Confirmation & Details Form
 Announcement Video | Announcement Image 
 ![Video Announcement](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/5ef589cc-67ba-4c94-885a-37f154698ba3) | ![Image Announcement](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/0b81d480-066e-4c46-b24f-746b35484fec)
 
-## 8. Emp Simulation For Managers
-
-
-## 9. Appointments
-
-
-
+## 8. Appointments
+. | .
+:-------------------------:|:-------------------------:
+![1](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/fc381412-3286-429d-b099-bebd4653e04f) | ![2](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/341110ff-69a2-4c08-8c10-5a4ef5bd338d)
+![3](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/42da48ed-a03c-450a-b92e-f9a6c21c7607) | ![4](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/3d91fee0-1c59-45e1-bba0-c39e8df0d6b1)
+![5](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/081e987b-50f1-444b-bc3a-016b9f0ae42b) | ![6](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/4e706087-57f1-42c5-a92d-44a595415077)
+![7](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/5a3ddee6-f663-4bca-9e84-7a2aef55c31e) | ![9](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/8ce8f067-097b-4a7f-bd5f-5f50bda65ce5)
+![10](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/09be7359-a27f-48f7-a3a7-95b788a75b0f) | ![11](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/2f409ed7-4b1c-49ad-9e14-e75bc8a76095)
+![12](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/f7a7dc51-7a73-45c1-8a11-68acc24a1c67) | ![13](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/d30bb9ae-f944-422c-9c56-fb602314777a)
+![14](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/5e6e4a71-d57b-4ab0-b249-32e2cf2b1465) | ![15](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/7d7ba320-7aca-4708-b00b-76defd3c8253)
