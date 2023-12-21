@@ -1,5 +1,5 @@
 # CRM
-CRM is an iPad app for UMI Stone catering the sale representatives, marketers, and managers. This all-in-one app facilitates seamless data sharing and management, performance tracking, and enhanced customer interactions.
+CRM is an iPad app for UMI Stone catering to sales representatives, marketers, and managers. This all-in-one app facilitates seamless data sharing and management, performance tracking, and enhanced customer interactions.
 # Technologies Used
 * Xcode 13, 14
 * SwiftUI 
