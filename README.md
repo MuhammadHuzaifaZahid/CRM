@@ -105,3 +105,40 @@ Announcement Video | Announcement Image
 ![10](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/09be7359-a27f-48f7-a3a7-95b788a75b0f) | ![11](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/2f409ed7-4b1c-49ad-9e14-e75bc8a76095)
 ![12](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/f7a7dc51-7a73-45c1-8a11-68acc24a1c67) | ![13](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/d30bb9ae-f944-422c-9c56-fb602314777a)
 ![14](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/5e6e4a71-d57b-4ab0-b249-32e2cf2b1465) | ![15](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/7d7ba320-7aca-4708-b00b-76defd3c8253)
+
+
+# Account Modules
+
+## 1. Goals
+
+. | .
+:-------------------------:|:-------------------------:
+![Frame-21-12-2023-01-10-54](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/df011518-dcfa-4d7b-8b3a-46e2474feda2) | ![Frame-21-12-2023-01-11-32](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/95848c2a-acfe-4735-821a-a483758c65eb)
+![Frame-21-12-2023-01-12-24](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/f5c9092c-ad4a-4232-864b-af55b0591e33)
+
+## 2. To-Do
+
+. | Employee To-Dos
+:-------------------------:|:-------------------------:
+![Frame-21-12-2023-01-12-37](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/c75400c0-3130-4262-b52c-ee2b253d3f5b) | ![Frame-21-12-2023-01-12-50](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/4eef73f0-5cb8-4415-8946-20b547ba904a)
+Customer To-Dos | Calender ( For Routes )
+![Frame-21-12-2023-01-13-18](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/202328af-0714-45eb-bdfe-792d0aa83c3a) | ![Frame-21-12-2023-01-13-51](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/9302f13f-2075-4115-9544-59ba8dcb98e1)
+Old Route Details | Route Duplication
+![Frame-21-12-2023-01-14-06](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/6d83959b-644b-4d80-b53d-bbe4d387a7f0) | ![Frame-21-12-2023-01-15-39](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/4db8f140-888d-4271-af4a-85a7d550a5a4)
+Upcoming Route Details | New Route
+![Frame-21-12-2023-01-16-18](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/75e8869d-e68e-4cae-8f34-bb7da08220b2) | ![Frame-21-12-2023-01-18-03](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/224f4682-b8ba-48fd-b9e2-0fde2b92583e)
+Search Route Stops/Clients | Route Directions
+![Frame-21-12-2023-01-20-14](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/8aeb47a4-7996-44ad-8783-cedfb34d75dd) | ![Frame-21-12-2023-01-18-39](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/74638617-a568-4547-a5e3-f849f13d174a)
+
+## 3. Pending
+
+. | .
+:-------------------------:|:-------------------------:
+![Frame-21-12-2023-01-20-37](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/052a264e-7ae2-4514-b3c7-726042fc3b30) | ![Frame-21-12-2023-01-20-44](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/cc33cf04-1475-4619-99b0-014ef57ea7ce)
+![Frame-21-12-2023-01-21-23](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/9eb994c5-cf41-4ac2-b5ef-77eb6886dffb) | ![Frame-21-12-2023-01-22-00](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/d9e53235-77b8-40bb-a7ec-7ce009484eae)
+
+## 4. Appointments
+![Frame-21-12-2023-01-22-43](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/f833c0a1-5539-4db9-bf54-05b6c5a69de6)
+
+## 5. Visits
+![Frame-21-12-2023-01-23-24](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/77796ec4-13ae-4aec-b8dd-f4d35612c240)
