@@ -137,8 +137,8 @@ Search Route Stops/Clients | Route Directions
 ![Frame-21-12-2023-01-20-37](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/052a264e-7ae2-4514-b3c7-726042fc3b30) | ![Frame-21-12-2023-01-20-44](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/cc33cf04-1475-4619-99b0-014ef57ea7ce)
 ![Frame-21-12-2023-01-21-23](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/9eb994c5-cf41-4ac2-b5ef-77eb6886dffb) | ![Frame-21-12-2023-01-22-00](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/d9e53235-77b8-40bb-a7ec-7ce009484eae)
 
-## 4. Appointments
-![Frame-21-12-2023-01-22-43](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/f833c0a1-5539-4db9-bf54-05b6c5a69de6)
+## 4. Appointments & 5. Visits
 
-## 5. Visits
-![Frame-21-12-2023-01-23-24](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/77796ec4-13ae-4aec-b8dd-f4d35612c240)
+. | .
+:-------------------------:|:-------------------------:
+![Frame-21-12-2023-01-22-43](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/f833c0a1-5539-4db9-bf54-05b6c5a69de6) | ![Frame-21-12-2023-01-23-24](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/77796ec4-13ae-4aec-b8dd-f4d35612c240)
