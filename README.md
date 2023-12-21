@@ -87,13 +87,18 @@ Mail & Order Carts | Marketing Mail Form ( Promo, Coming Soon, Inventory )
 Inventory & Back Order Placement Form | Order Confirmation & Details Form
 ![Order Form](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/ce36786e-a3cf-419f-8936-d10170609a79) | ![Frame-21-12-2023-12-57-33](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/bc707536-7e36-4094-85a0-ea10f37d54c9)
 
-## 6. Announcements
+## 7. Announcements
+
+. | Announcements
+:-------------------------:|:-------------------------:
+![Items](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/816e25b4-0774-458e-84c9-39954e572292) | ![Announcements](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/eac9f0ed-b1f2-489f-b2f0-b8083b8fe367)
+Announcement Video | Announcement Image 
+![Video Announcement](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/5ef589cc-67ba-4c94-885a-37f154698ba3) | ![Image Announcement](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/0b81d480-066e-4c46-b24f-746b35484fec)
+
+## 8. Emp Simulation For Managers
 
 
-## 7. Emp Simulation For Managers
-
-
-## 8. Appointments
+## 9. Appointments
 
 
 
