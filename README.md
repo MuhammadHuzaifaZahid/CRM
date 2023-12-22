@@ -97,14 +97,14 @@ Inventory & Back Order Placement Form | Order Confirmation & Details Form
 
 ## 7. Announcements
 
-. | Announcements
+![]() | Announcements
 :-------------------------:|:-------------------------:
 ![Items](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/816e25b4-0774-458e-84c9-39954e572292) | ![Announcements](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/eac9f0ed-b1f2-489f-b2f0-b8083b8fe367)
 Announcement Video | Announcement Image 
 ![Video Announcement](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/5ef589cc-67ba-4c94-885a-37f154698ba3) | ![Image Announcement](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/0b81d480-066e-4c46-b24f-746b35484fec)
 
 ## 8. Appointments
-. | .
+![]() | ![]()
 :-------------------------:|:-------------------------:
 ![1](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/fc381412-3286-429d-b099-bebd4653e04f) | ![2](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/341110ff-69a2-4c08-8c10-5a4ef5bd338d)
 ![3](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/42da48ed-a03c-450a-b92e-f9a6c21c7607) | ![4](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/3d91fee0-1c59-45e1-bba0-c39e8df0d6b1)
@@ -119,14 +119,14 @@ Announcement Video | Announcement Image
 
 ## 1. Goals
 
-. | .
+![]() | ![]()
 :-------------------------:|:-------------------------:
 ![Frame-21-12-2023-01-10-54](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/df011518-dcfa-4d7b-8b3a-46e2474feda2) | ![Frame-21-12-2023-01-11-32](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/95848c2a-acfe-4735-821a-a483758c65eb)
 ![Frame-21-12-2023-01-12-24](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/f5c9092c-ad4a-4232-864b-af55b0591e33)
 
 ## 2. To-Do
 
-. | Employee To-Dos
+![]() | Employee To-Dos
 :-------------------------:|:-------------------------:
 ![Frame-21-12-2023-01-12-37](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/c75400c0-3130-4262-b52c-ee2b253d3f5b) | ![Frame-21-12-2023-01-12-50](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/4eef73f0-5cb8-4415-8946-20b547ba904a)
 Customer To-Dos | Calender ( For Routes )
@@ -140,13 +140,13 @@ Search Route Stops/Clients | Route Directions
 
 ## 3. Pending
 
-. | .
+![]() | ![]()
 :-------------------------:|:-------------------------:
 ![Frame-21-12-2023-01-20-37](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/052a264e-7ae2-4514-b3c7-726042fc3b30) | ![Frame-21-12-2023-01-20-44](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/cc33cf04-1475-4619-99b0-014ef57ea7ce)
 ![Frame-21-12-2023-01-21-23](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/9eb994c5-cf41-4ac2-b5ef-77eb6886dffb) | ![Frame-21-12-2023-01-22-00](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/d9e53235-77b8-40bb-a7ec-7ce009484eae)
 
 ## 4. Appointments & 5. Visits
 
-. | .
+![]() | ![]()
 :-------------------------:|:-------------------------:
 ![Frame-21-12-2023-01-22-43](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/f833c0a1-5539-4db9-bf54-05b6c5a69de6) | ![Frame-21-12-2023-01-23-24](https://github.com/MuhammadHuzaifaZahid/CRM/assets/83825490/77796ec4-13ae-4aec-b8dd-f4d35612c240)
