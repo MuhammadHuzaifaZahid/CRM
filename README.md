@@ -17,7 +17,7 @@ CRM is an iPad app for UMI Stone catering to sales representatives, marketers, a
 
 Customers | Customer Detail
 :-------------------------:|:-------------------------:
-![2](https://github.com/MuhammadHuzaifaZahid/UMI-Stone-CRM/assets/83825490/57b564c5-893c-428d-b656-bb961aec77a1) | ![3](https://github.com/MuhammadHuzaifaZahid/UMI-Stone-CRM/assets/83825490/29216d9c-9569-472c-96b3-4bc7acddb3ba)
+![2](https://1drv.ms/i/s!As_Ym3sYnKcrgT1ovECfEW2C-QVM?e=NBkObA) | ![3](https://github.com/MuhammadHuzaifaZahid/UMI-Stone-CRM/assets/83825490/29216d9c-9569-472c-96b3-4bc7acddb3ba)
 Customer Invoice History For Group Natural Stone | Customer Record Update Form
 ![28](https://github.com/MuhammadHuzaifaZahid/UMI-Stone-CRM/assets/83825490/4a19882b-d121-4079-bf4d-5daf22c57c07) | ![7](https://github.com/MuhammadHuzaifaZahid/UMI-Stone-CRM/assets/83825490/97b1080c-e801-42a1-9286-c083af11b239)
 Customer Todo Create Form | Customer Todos
