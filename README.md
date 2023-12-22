@@ -11,8 +11,8 @@ CRM is an iPad app for UMI Stone catering to sales representatives, marketers, a
 * Charts
 * Sliders
 # Notable Features
-* Role Based Data/Feature Access
-* Employee Simulation Feature For Managers
+* Role Based Access
+* Employee Simulation For Managers
 * In App Mail Support
 * Performance Reports
 * Route Planning & Execution
